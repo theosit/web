@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "finops.html",
     "name": "THEOS-IT",
     "theme": {
       "name": "mobirise3",
@@ -4108,7 +4108,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "5",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-15.jpg",
