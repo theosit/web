@@ -696,6 +696,9 @@ section.form .container {
 #header3-l H3 {
   color: #90a878;
 }
+#header3-l .mbr-section-title {
+  font-size: 30px;
+}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }
@@ -800,6 +803,9 @@ section.form .container {
 #content6-18 UL {
   font-size: 16px;
 }
+#content6-18 .lead {
+  color: #000000;
+}
 #header3-6r .mbr-section-title,
 #header3-6r .mbr-section-subtitle {
   text-align: center;
@@ -814,8 +820,8 @@ section.form .container {
 #header3-19 .mbr-section-title {
   font-size: 30px;
 }
-#header3-7d .mbr-section-title,
-#header3-7d .mbr-section-subtitle {
+#header3-7h .mbr-section-title,
+#header3-7h .mbr-section-subtitle {
   text-align: center;
 }
 #features2-48 .striped .mbr-cards-col:nth-child(2n+1) {
@@ -914,12 +920,18 @@ section.form .container {
 #content6-1h UL {
   font-size: 16px;
 }
+#content6-1h .lead {
+  color: #000000;
+}
 #header3-6l .mbr-section-title,
 #header3-6l .mbr-section-subtitle {
   text-align: center;
 }
 #content7-4g UL {
   text-align: left;
+}
+#content7-4g .lead {
+  color: #000000;
 }
 #contacts1-1l P {
   color: #ffffff;
@@ -1030,6 +1042,9 @@ section.form .container {
 #features2-4k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #266e95;
 }
+#features2-4k .mbr-cards-col:nth-child(even) .card-text {
+  color: #000000;
+}
 #contacts1-1u P {
   color: #ffffff;
 }
@@ -1117,6 +1132,9 @@ section.form .container {
 #content6-28 UL {
   font-size: 16px;
 }
+#content6-28 .lead {
+  color: #000000;
+}
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
   text-align: center;
@@ -1133,6 +1151,9 @@ section.form .container {
 }
 #features2-4t .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #266e95;
+}
+#features2-4t .mbr-cards-col:nth-child(even) .card-text {
+  color: #000000;
 }
 #contacts1-2c P {
   color: #ffffff;
@@ -1220,6 +1241,9 @@ section.form .container {
 }
 #content6-2z UL {
   font-size: 16px;
+}
+#content6-2z .lead {
+  color: #000000;
 }
 #contacts1-33 P {
   color: #ffffff;
@@ -1313,6 +1337,9 @@ section.form .container {
 #content6-4p P {
   text-align: left;
 }
+#content6-4p .lead {
+  color: #000000;
+}
 #header3-4q .mbr-section-title,
 #header3-4q .mbr-section-subtitle {
   text-align: center;
@@ -1333,6 +1360,9 @@ section.form .container {
 }
 #features2-4r .mbr-cards-col:nth-child(odd) .card-title {
   font-family: 'Montserrat', sans-serif;
+}
+#features2-4r .mbr-cards-col:nth-child(even) .card-text {
+  color: #000000;
 }
 #contacts1-4s P {
   color: #ffffff;
@@ -1417,7 +1447,7 @@ section.form .container {
   font-size: 32px;
 }
 #form1-5w .form-control-label {
-  color: #232323;
+  color: #000000;
 }
 #form1-5w SMALL {
   font-family: 'Montserrat', sans-serif;
@@ -1514,6 +1544,9 @@ section.form .container {
 }
 #content6-67 UL {
   font-size: 16px;
+}
+#content6-67 .lead {
+  color: #000000;
 }
 #contacts1-68 P {
   color: #ffffff;
