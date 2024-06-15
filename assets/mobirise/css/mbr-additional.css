@@ -552,11 +552,19 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
 }
+#header3-7e .mbr-section-title,
+#header3-7e .mbr-section-subtitle {
+  text-align: center;
+}
 #features2-u .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #266e95;
 }
 #features2-u .mbr-cards-col:nth-child(even) .card-text {
   font-family: 'Raleway', sans-serif;
+}
+#header3-7g .mbr-section-title,
+#header3-7g .mbr-section-subtitle {
+  text-align: center;
 }
 #testimonials1-73 .mbr-section-title {
   font-size: 30px;
@@ -684,6 +692,10 @@ section.form .container {
 }
 #features4-m H4 {
   color: #8c8c8c;
+}
+#header3-7f .mbr-section-title,
+#header3-7f .mbr-section-subtitle {
+  text-align: center;
 }
 #features2-4y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #266e95;
