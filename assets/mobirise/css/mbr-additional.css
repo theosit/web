@@ -560,6 +560,7 @@ section.form .container {
 }
 #header3-s .mbr-section-title {
   color: #90a878;
+  font-size: 30px;
 }
 #header3-7e .mbr-section-title,
 #header3-7e .mbr-section-subtitle {
@@ -810,6 +811,9 @@ section.form .container {
 #header3-19 H3 {
   color: #90a878;
 }
+#header3-19 .mbr-section-title {
+  font-size: 30px;
+}
 #header3-7d .mbr-section-title,
 #header3-7d .mbr-section-subtitle {
   text-align: center;
@@ -1016,6 +1020,9 @@ section.form .container {
   color: #90a878;
   font-size: 32px;
 }
+#header3-1r .mbr-section-title {
+  font-size: 30px;
+}
 #header3-6m .mbr-section-title,
 #header3-6m .mbr-section-subtitle {
   text-align: center;
@@ -1116,6 +1123,9 @@ section.form .container {
 }
 #header3-29 H3 {
   color: #90a878;
+}
+#header3-29 .mbr-section-title {
+  font-size: 30px;
 }
 #header3-6n .mbr-section-title,
 #header3-6n .mbr-section-subtitle {
@@ -1310,6 +1320,9 @@ section.form .container {
 #header3-4q H3 {
   color: #90a878;
   font-size: 32px;
+}
+#header3-4q .mbr-section-title {
+  font-size: 30px;
 }
 #header3-6h .mbr-section-title,
 #header3-6h .mbr-section-subtitle {
