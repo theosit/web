@@ -783,6 +783,10 @@ section.form .container {
 #header3-19 H3 {
   color: #90a878;
 }
+#header3-7d .mbr-section-title,
+#header3-7d .mbr-section-subtitle {
+  text-align: center;
+}
 #features2-48 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #266e95;
 }
