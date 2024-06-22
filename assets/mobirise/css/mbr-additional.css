@@ -1754,3 +1754,96 @@ section.form .container {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
+
+
+
+#menu-7k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7k .navbar-caption {
+  color: #ffffff;
+  font-size: 16px;
+}
+#menu-7k .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7k .link,
+#menu-7k .dropdown-item {
+  color: #ffffff;
+}
+#menu-7k .link {
+  font-size: 0.75rem;
+}
+#menu-7k .dropdown-item,
+#menu-7k .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-7k .link:hover,
+#menu-7k .dropdown-item:hover,
+#menu-7k .link:focus,
+#menu-7k .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-7k .link[aria-expanded="true"],
+#menu-7k .dropdown-menu {
+  background: #000000;
+}
+#menu-7k .nav-dropdown-sm .link:focus,
+#menu-7k .nav-dropdown-sm .link:hover,
+#menu-7k .nav-dropdown-sm .dropdown-item:focus,
+#menu-7k .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-7k .navbar,
+#menu-7k .nav-dropdown-sm,
+#menu-7k .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7k .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-7k .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7k .bg-color.transparent.opened .link:hover,
+#menu-7k .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-7k .link[aria-expanded="true"],
+#menu-7k .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-7k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-7k .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7k .close-icon::before,
+#menu-7k .close-icon::after {
+  background-color: #ffffff;
+}
+#msg-box8-7l .mbr-section-title,
+#msg-box8-7l p {
+  color: #fff;
+}
+#msg-box8-7l .lead {
+  color: #ffffff;
+}
+#msg-box8-7l .mbr-section-title {
+  font-size: 30px;
+}
+#footer1-7m P {
+  color: #c1c1c1;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-7s DIV {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+#contacts1-7o P {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
