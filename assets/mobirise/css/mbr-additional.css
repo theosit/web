@@ -1973,6 +1973,10 @@ section.form .container {
 #features2-82 .mbr-cards-col:nth-child(odd) .card-text {
   font-family: 'Roboto', sans-serif;
 }
+#features2-82 .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 20px;
+  text-align: center;
+}
 #contacts1-83 P {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
