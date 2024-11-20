@@ -25,7 +25,8 @@
         "#266e95",
         "#2e2e2e",
         "#225c9c",
-        "#232323"
+        "#232323",
+        "#bfcecb"
       ]
     },
     "versionFirst": "3.12.1",
@@ -37,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "mbrsiteDomain": "sldye3zauv",
+    "mbrsiteDomain": "ete9wyd5az",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -154,7 +155,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -4866,7 +4867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
           "_anchor": "menu-7v"
         },
         {
@@ -5093,7 +5094,7 @@
           },
           "title1": "Business<br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Virtual Chief Technical Officer (vCTO) - we help you define, implement, and oversee your technical strategy.<br><br>Customer/employee Onboarding policies / procedures<br><br>Customer/employee Offboarding policies / procedures<br><br>",
+          "caption1": "Virtual Chief Technical Officer (vCTO) - we help you define, implement, and oversee your technical strategy.<br><br>Standard operating procedures (SOPs) / handbooks / checklists<br><br>Customer / employee Onboarding policies / procedures<br><br>Customer / employee Offboarding policies / procedures<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
