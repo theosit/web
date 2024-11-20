@@ -544,6 +544,7 @@ section.form .container {
 }
 #menu-0 A {
   font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 #msg-box8-q .mbr-section-title,
 #msg-box8-q p {
@@ -1425,6 +1426,7 @@ section.form .container {
 
 
 
+
 #menu-4n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1492,6 +1494,10 @@ section.form .container {
 #menu-4n .close-icon::before,
 #menu-4n .close-icon::after {
   background-color: #ffffff;
+}
+#menu-4n A {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 #msg-box8-4l .mbr-section-title,
 #msg-box8-4l p {
@@ -1991,6 +1997,7 @@ section.form .container {
 
 
 
+
 #menu-85 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2058,6 +2065,10 @@ section.form .container {
 #menu-85 .close-icon::before,
 #menu-85 .close-icon::after {
   background-color: #ffffff;
+}
+#menu-85 A {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 #msg-box8-86 .mbr-section-title,
 #msg-box8-86 p {
