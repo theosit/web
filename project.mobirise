@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "spla.html",
     "name": "THEOS-IT",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 293,
+    "uniqCompNum": 302,
     "versionPublish": "5.9.18",
     "favicon": false,
     "noImageResize": "",
@@ -155,7 +155,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -1058,7 +1058,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -1726,7 +1726,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -2187,7 +2187,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -2501,7 +2501,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -2858,7 +2858,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "8"
+        "order": "9"
       },
       "components": [
         {
@@ -2951,7 +2951,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -3309,7 +3309,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "9"
+        "order": "10"
       },
       "components": [
         {
@@ -3402,7 +3402,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -3570,7 +3570,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "7"
+        "order": "8"
       },
       "components": [
         {
@@ -3663,7 +3663,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -4124,7 +4124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -4316,7 +4316,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
@@ -4409,7 +4409,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>"
         },
         {
           "_styles": {
@@ -4559,7 +4559,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "10"
+        "order": "11"
       },
       "components": [
         {
@@ -4651,7 +4651,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
           "_anchor": "menu-7k"
         },
         {
@@ -4791,12 +4791,12 @@
     },
     "optimization.html": {
       "settings": {
-        "title": "IT / Business optimization",
+        "title": "IT / Business optimization - THEOS IT Solutions",
         "meta_descr": "IT Business optimization. Virtual Chief Technical Officer services (vCTO). Optimization of IT, and business processes. IT infrastructure optimization. IT workload consolidation. Policies, procedures, technical documentation.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -4888,7 +4888,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
           "_anchor": "menu-7v"
         },
         {
@@ -5240,6 +5240,458 @@
           "text2": "<strong><br></strong><strong>Contact&nbsp;</strong><br>\nE-mail: <a href=\"mailto:support@theosit.com\" class=\"text-info\"><b>support@theosit.com</b></a><br>LinkedIn: <a href=\"https://www.linkedin.com/company/theos-it-solutions/\" class=\"text-info\" target=\"_blank\"><b>THEOS IT Solutions</b></a><br>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"#top\" class=\"text-info\"><b>THEOS IT Solutions</b></a></p>",
           "_anchor": "contacts1-83"
+        }
+      ]
+    },
+    "spla.html": {
+      "settings": {
+        "title": "Microsoft SPLA Management - THEOS IT Solutions",
+        "meta_descr": "Microsoft SPLA Management. Microsoft SPLA Consulting. Microsoft SPLA risk assessment. Microsoft SPLA training. Microsoft SPLA rollout. Microsoft SPLA Technical Consulting.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": "6"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-164x128.png",
+              "height": 128,
+              "alt": "THEOS IT Solutions",
+              "link": "index.html",
+              "title": "THEOS IT Solutions",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">THEOS IT <br>Solutions</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html#features3-3\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-infrastructure.html\">Managed IT Services<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"it-consulting.html\">IT Consulting<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"optimization.html\">IT / Business optimization<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"spla.html\">Microsoft SPLA Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"security.html\">Security<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"virtualization.html\">Virtualization</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"networking.html\">Networking<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-and-email.html\">Web / E-mail solutions<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT US<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#top\">Text</a></li>",
+          "_anchor": "menu-85"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Microsoft SPLA Management",
+          "text": "<h4>We solve Microsoft SPLA licensing complexity for you.&nbsp;</h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-86"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">INFORMATION / QUOTE REQUEST</a> ",
+          "_anchor": "buttons1-87"
+        },
+        {
+          "_name": "footer1",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2024, THEOS IT Solutions<br>All rights reserved | <a href=\"privacy-policy.html\" class=\"text-info\">Privacy policy</a><br>",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "footer1-88"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "UL": {
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".lead UL": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>WHAT WE DO</b></p><p><br></p><ul><li><b>Solve complexity of Microsoft SPLA licensing, </b>using our<b> extensive experience with more than 300+ SPLA providers.<br><br></b></li><li><b>Optimize SPLA licensing costs.</b><br><br></li><li>Implement SPLA licensing inventory, and reporting tools.</li><li>Manage SPLA licensing inventory, and reporting tools.<br><br></li><li><b>Increase SPLA compliance.</b><br><br></li><li>Identify SPLA audit risks.</li><li><b>Reduce / remove SPLA audit risks.<br><br></b></li><li><b>SPLA Technical consulting / training -&nbsp;</b><br><br><b>Minimize SPLA license compliance risks, and reduce licensing costs,</b>&nbsp;through optimized environment management, and configuration best practices.<br><br></li><li>Increase profitability / improve end-customer billing.</li></ul>",
+          "text2": "",
+          "_anchor": "content6-89"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#90a878",
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "SOLUTIONS",
+          "meta": "",
+          "_anchor": "header3-8a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "title": "",
+          "meta": "",
+          "_anchor": "header3-8b"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#266e95"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#266e95",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#efefef"
+            }
+          },
+          "title1": "SPLA Management",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Management of your existing Microsoft SPLA license inventory / reporting tool.<br><br>Improve effectiveness, and ROI of your existing SPLA inventory / reporting tool.<br><br>Advice, consulting, implementation, and management of new SPLA license inventory / reporting tools.<br><br>Management of SPLA reporting.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#266e95"
+            }
+          },
+          "title2": "SPLA Risk Assessment<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<p>Consulting on SPLA licensing risks.<br><br>Identification of SPLA licensing risks in your environment.<br><br>Identification of corrective steps, reducing SPLA licensing risks, and potential audit penalties.<br><br><br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "laptop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#efefef"
+            }
+          },
+          "title3": "SPLA Technical Consulting",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Consulting / training on technical issues impacting SPLA compliance.<br><br>Technical issues correction planning.<br><br>Guidance of SPLA Service Provider engineering teams towards effective SPLA technical corrections.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#266e95"
+            }
+          },
+          "title4": "SPLA Environment Rollout",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Planning, and design of SPLA environments.<br><br>Consulting / advice on optimal hardware, and software set-up, to ensure profitability, and SPLA compliance.<br><br>Guidance of SPLA Service provider engineering teams based on Microsoft SPLA best practices.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features2-8c"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_sourceTheme": "mobirise3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "",
+          "text2": "<strong><br></strong><strong>Contact&nbsp;</strong><br>\nE-mail: <a href=\"mailto:support@theosit.com\" class=\"text-info\"><b>support@theosit.com</b></a><br>LinkedIn: <a href=\"https://www.linkedin.com/company/theos-it-solutions/\" class=\"text-info\" target=\"_blank\"><b>THEOS IT Solutions</b></a><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"#top\" class=\"text-info\"><b>THEOS IT Solutions</b></a></p>",
+          "_anchor": "contacts1-8d"
         }
       ]
     }
