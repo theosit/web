@@ -770,6 +770,10 @@ section.form .container {
 #header3-l .mbr-section-title {
   font-size: 30px;
 }
+#header3-84 .mbr-section-title,
+#header3-84 .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }

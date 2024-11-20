@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "optimization.html",
+    "currentPage": "about.html",
     "name": "THEOS-IT",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 292,
+    "uniqCompNum": 293,
     "versionPublish": "5.9.18",
     "favicon": false,
     "noImageResize": "",
@@ -1263,6 +1263,27 @@
           },
           "title": "HOW WE WORK",
           "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-84",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
